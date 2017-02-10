@@ -18,9 +18,9 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mOK this is  Terminal.\u001b[m\r\n"
+    "uimessage1": "\u001b[32mOK this is your Terminal.\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "docker"
   }
 }
