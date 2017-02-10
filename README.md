@@ -8,3 +8,6 @@ Visit https://www.katacoda.com/afranco to view and take the interactive scenario
 Visit https://www.katacoda.com/teach/git-hosted-scenarios to learn more about creating Katacoda scenarios
 
 For an example repository, see https://www.github.com/benhall/katacoda-scenarios
+
+
+ THIS IS the latest version
